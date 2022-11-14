@@ -1,0 +1,3 @@
+/home/git_test/Build/CMakeFiles/rebuild_cache.dir
+/home/git_test/Build/CMakeFiles/this.dir
+/home/git_test/Build/CMakeFiles/edit_cache.dir
